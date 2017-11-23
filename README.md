@@ -1,6 +1,6 @@
 ## Trabajo de redes ##
-- Crear cinco redes:
-- 
+- Crear cinco redes:  
+
 1- Crear tres subredes (VLSM), una que soporte 100 host, otra que soporte 30 y por último una para 6 host. Sólo esta última podrá salir fuera. Cada una tendrá cuatro ordenadores conectados.
 
 Para esto hemos hecho el calculo de las mascaras y nos dio que las ip utilizables son: 
