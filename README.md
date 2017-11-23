@@ -27,15 +27,15 @@ Para esto hemos puesto 5 PCs con una ip fija que va desde la 192.168.3.2 hasta l
 
 Hemos conectado 5 PCs con una ip fija que va desde la 192.168.4.2 hasta 192.168.4.6
 
-- Todas las redes estarán conectadas mediante routers.
--
+- Todas las redes estarán conectadas mediante routers.  
+
 
 Para esto hemos puesto 5 routers modelo 1841 los cuales hemos conectado por el fast 0/0 a los switch de cada red. Hemos configurado los servidores y PCs de cada red para que la ip del fast de cada router sea la puerta de enlace de cada red.
 
 Después hemos enrutado todos los routers con las ip de los seriales por los que están conectados.
 
-- Tendremos tres servidores web:
--
+- Tendremos tres servidores web:  
+
 
 1- www.albacete.es : muestra una foto de Albacete.
 
@@ -45,7 +45,7 @@ Después hemos enrutado todos los routers con las ip de los seriales por los que
 
 Para esto hemos guardado en tres servidores cada una de las paginas y las hemos asociado con la ip de cada servidor. Hemos utilizados un cuarto servidor para que las demás redes puedan visitar las paginas con total normalidad. Dándole a cada puesto la ip de este servidor en el DNS.
 
-- Todas las redes deben estar etiquetadas.
--
+- Todas las redes deben estar etiquetadas.  
+
 
 Por ultimo hemos etiquetado todas las ip fijas los fast y los seriales.
